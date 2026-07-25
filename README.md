@@ -14,37 +14,34 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
-class Gopi:
-    def __init__(self):
-        self.name         = "Gopi"
-        self.username     = "Gopi646"
-        self.location     = "Salem, Tamil Nadu, India"
-        self.email        = "gopi412008@gmail.com"
-        self.degree       = "B.E. Computer Science & Engineering (3rd Year)"
-        self.institution  = "Dhirajlal Gandhi College of Technology"
+### 👋 Hi, I'm Gopi
 
-        self.stack = [
-            "Python", "Java", "JavaScript",
-            "Machine Learning", "Data Science",
-            "React", "Node.js", "SQL"
-        ]
+🎓 **B.E. Computer Science & Engineering (3rd Year)**  
+🏫 Dhirajlal Gandhi College of Technology
 
-        self.currently_learning = [
-            "Deep Learning & Neural Networks",
-            "Cloud Platforms (AWS / GCP)",
-            "Advanced Data Structures & Algorithms",
-        ]
+📍 Salem, Tamil Nadu, India
 
-        self.fun_fact = "I solve coding challenges for fun 🧩"
+💻 Passionate about Software Development, Artificial Intelligence and Machine Learning.
 
-    def motto(self):
-        return "Build. Learn. Repeat. 🚀"
+🚀 I enjoy building real-world projects and continuously improving my programming skills.
 
-me = Gopi()
-print(me.motto())
-```
+### 🛠️ Tech Stack
+- Python
+- Java
+- JavaScript
+- React
+- Node.js
+- SQL
 
+### 🌱 Currently Learning
+- Deep Learning & Neural Networks
+- AWS Cloud
+- Advanced Data Structures & Algorithms
+
+### 🎯 Goal
+To become a Full Stack AI Developer and build impactful software solutions.
+
+> **"Build. Learn. Repeat. 🚀"**
 <br clear="right"/>
 
 ---
