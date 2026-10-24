@@ -173,15 +173,6 @@ Completed a **1-month on-site Python Developer Internship**, gaining hands-on de
 **Hindusthan College of Technology, Salem**
 
 📅 2024 – 2028  
-⭐ CGPA: **8.5**
-
-**Higher Secondary (12th)**  
-SSRM Hr. Sec. School — State Board  
-**80% | 2024**
-
-**10th Standard**  
-Mount Shervaroys Matriculation School — State Board  
-**75% | 2022**
 
 ---
 
